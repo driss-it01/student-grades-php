@@ -2,7 +2,7 @@
 
 A simple PHP project demonstrating **Object-Oriented Programming** concepts including classes, encapsulation, getters/setters, and validation.
 
-![Student Grades Preview](C:\Users\MR X\Pictures\GitHubImage\Grades-php.png)
+![Student Grades Preview](preview.png)
 
 ---
 
