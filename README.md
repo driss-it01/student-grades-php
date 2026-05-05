@@ -35,7 +35,8 @@ mon-projet/
 ├── classes/
 │   └── Student.php     # Student class (OOP)
 ├── index.php           # Display logic + HTML
-├── preview.png         # Project screenshot
+├── img/
+│   └── preview .png      # Project screenshot
 └── README.md
 ```
 
@@ -81,4 +82,4 @@ http://localhost/student-grades-php/index.php
 
 ## 👨‍💻 Author
 
-Made with ❤️ while learning PHP OOP
+Driss Zeroual
